@@ -5,6 +5,7 @@ Frontend
 - React + Redux
 - Reduxthunk
 - materialize - css
+- ReduxForm
 
 Backend
 - MongoDB with Mongoose (data modelling)
@@ -25,3 +26,4 @@ CI/CD
 Others libraries used
 - nodemon
 - concurrently for booting both frontend and backend at the same time
+- ngrok
